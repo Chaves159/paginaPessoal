@@ -9,9 +9,16 @@
 	display: inline;
 	font-size: 50px; 
 	vertical-align: 215px;
-	
+
 }
-ul li{
+ol li{
 	display: inline;
 	margin: 10px;
+	text-align: center;
+	
+}
+.subTitulo{
+	font-size: 40px;
+	font-family: monospace;
+	font-style: oblique;
 }

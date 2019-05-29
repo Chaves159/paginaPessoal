@@ -22,3 +22,26 @@ ol li{
 	font-family: monospace;
 	font-style: oblique;
 }
+li{
+	font-family: "arial";
+}
+#karate{
+	width : 250px;
+	height: 250px;
+	
+}
+#dormir{
+	width : 250px;
+	height: 250px;
+	
+}
+#sinuca{
+	width : 250px;
+	height: 250px;
+}
+#rodape{
+	text-align: center;
+	font-family: monospace;
+	background-color: blue;
+	color: white;
+}
